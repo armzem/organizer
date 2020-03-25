@@ -1,0 +1,32 @@
+.category-btn-group {
+    padding-left: 12px;
+    margin-bottom: 10px;
+}
+
+.category-btn-group span {
+    font-size: 18px;
+}
+
+button.choose-category {
+    border: none;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.admin-panel {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.product-card .card-body h6.category-title{
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.product-card .product-data h5{
+    margin: 15px 0 0 0;
+}
+
+.product-card .product-data span{
+    font-weight: bold;
+}
